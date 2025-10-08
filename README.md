@@ -8,7 +8,7 @@
 - [Setup](#setup)
 - [Approach](#approach)
 - [Status](#status)
-- [License](#license)
+
 
 # About the App: 📚
 Ekart Ecommerce is an online e-commerce app which provides the facility for online shopping from any location.
